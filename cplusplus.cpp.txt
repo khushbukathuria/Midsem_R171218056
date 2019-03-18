@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main()
+	{
+		int a,c;
+		cout<<"enter value of a";
+		cin>>a;
+		cout<<"Value of a is :"<<a<<endl;
+		c=++a;
+		cout<<"New value of a with pre increment is :"<<c<<endl;
+		c=a++
+		cout<<"Now value of a with post increment is :"<<c<<endl;	
+		return(0);
+	}
