@@ -25,7 +25,6 @@ b.Demonstrate use of Git reset(Soft, Hard, Mixed)
 
 c. Reset the head by 2 commits. Now recover the repository. 
 
-
-
-change in this file has been made once now 
-change in this file has been made again
+all the changes are done 
+this is final file 
+thank you
