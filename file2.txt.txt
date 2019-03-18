@@ -1,3 +1,2 @@
-this is file 2.
-a change is made to this file as well
-a change is made for the second time in this file
+git file 2 has been modified
+
