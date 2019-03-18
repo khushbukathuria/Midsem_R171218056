@@ -1,2 +1,2 @@
-git file 2 has been modified
+git file 2 has been modified.
 
