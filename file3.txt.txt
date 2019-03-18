@@ -28,3 +28,4 @@ c. Reset the head by 2 commits. Now recover the repository.
 
 
 change in this file has been made once now 
+change in this file has been made again
