@@ -24,3 +24,7 @@ a.Push the commits to remote repo on GitHub.
 b.Demonstrate use of Git reset(Soft, Hard, Mixed)
 
 c. Reset the head by 2 commits. Now recover the repository. 
+
+
+
+change in this file has been made once now 
